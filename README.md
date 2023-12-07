@@ -1,2 +1,2 @@
 # bookbot
-python local dev env testing
+first "professional" local dev env setup
